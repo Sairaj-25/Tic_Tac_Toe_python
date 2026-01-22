@@ -56,14 +56,6 @@ Player X starts the game
 
 Players take turns clicking on empty boxes
 
-The game checks:
-
-Rows
-
-Columns
-
-Diagonals
-
 When a player wins, the game displays the winner
 
 Click Reset Game to start again
