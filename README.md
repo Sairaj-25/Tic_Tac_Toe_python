@@ -28,11 +28,17 @@ CSS3 – Styling & layout
 JavaScript (ES6) – Game logic & DOM manipulation
 
 📂 Project Structure
+
 tic-tac-toe-web-game/
+
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── app.js
+
 └── README.md
 
 ▶️ How to Run
